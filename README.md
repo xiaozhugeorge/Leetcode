@@ -1,5 +1,7 @@
-# [Linear Structure] (https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure)
-### [String] (https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String)
+# [Linear Structure](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure)
+
+### [String](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String)
+* [14. Longest Common Prefix](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String/14.%20Longest%20Common%20Prefix)
 
 
 # [SQL](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL)
