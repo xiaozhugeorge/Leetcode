@@ -1,5 +1,8 @@
-# [SQL](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL)
+# [Linear Structure] (https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure)
+### [String] (https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String)
 
+
+# [SQL](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL)
 * [595. Big Countries](https://github.com/xiaozhugeorge/Leetcode/blob/master/SQL/595.%20Big%20Countries.sql)
 ### [Join](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL/Join)
 * [175. Combine Two Tables](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL/Join/175.%20Combine%20Two%20Tables)
