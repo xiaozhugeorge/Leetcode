@@ -1,8 +1,9 @@
 # [Linear Structure](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure)
-
 ### [String](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String)
 * [14. Longest Common Prefix](https://github.com/xiaozhugeorge/Leetcode/tree/master/Linear%20Structure/String/14.%20Longest%20Common%20Prefix)
 
+# [Hash Table]()
+### [1. Two Sum]()
 
 # [SQL](https://github.com/xiaozhugeorge/Leetcode/tree/master/SQL)
 * [183. Customer Who Never Order](https://github.com/xiaozhugeorge/Leetcode/blob/master/SQL/183.%20Customers%20Who%20Never%20Order.sql)
