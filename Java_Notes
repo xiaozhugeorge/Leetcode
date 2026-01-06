@@ -1,0 +1,24 @@
+Java: 
+String Length
+A String in Java is actually an object, which means it contains methods that can perform certain operations on strings.
+For example, you canfind the length of a string with the length() method:
+String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+System.out.println("The length of the txt string is: " + txt.length());
+
+Array Length
+To find out how many elements an array has, use the length property:
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+System.out.println(cars.length);
+// Outputs 4
+
+ArrayList Size
+To find out how many elements an ArrayList have, use the size method:
+ArrayList<String> cars = new ArrayList<String>();
+    cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+
+    cars.add(0, "Mazda"); // Insert element at the beginning of the list (0)
+
+    System.out.println(cars);
+cars.size();
